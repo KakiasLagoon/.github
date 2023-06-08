@@ -7,3 +7,5 @@
 -  Fun facts - what does your team eat for breakfast?
 -  Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+![caribe-Foto-Angel-Martin](https://github.com/KakiasLagoon/.github/assets/10551558/2bc3a4b2-a1d4-446a-b07f-82f0b9031e12)
+![Kakia's Lagoon](https://github.com/KakiasLagoon/.github/assets/10551558/ac3327ec-780c-4f84-af7f-3be042b40143)
